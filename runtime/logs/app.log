@@ -1,0 +1,68 @@
+2019-02-08 11:46:58 [217.118.93.95][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 217.118.93.95
+    in /home/m/mfb7917n/yii2.areopagitika.ru/public_html/basic/views/layouts/main.php:78
+    in /home/m/mfb7917n/yii2.areopagitika.ru/public_html/basic/controllers/SiteController.php:64
+2019-02-08 11:46:58 [217.118.93.95][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 217.118.93.95
+2019-02-08 11:46:58 [217.118.93.95][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'XF1CAlfsFAQAACtKh2QAAAAB'
+    'GEOIP_ADDR' => '217.118.93.95'
+    'GEOIP_CONTINENT_CODE' => 'EU'
+    'GEOIP_COUNTRY_CODE' => 'RU'
+    'GEOIP_COUNTRY_NAME' => 'Russian Federation'
+    'GEOIP_REGION' => '73'
+    'GEOIP_REGION_NAME' => 'Tatarstan'
+    'GEOIP_CITY' => 'Kazan'
+    'GEOIP_DMA_CODE' => '0'
+    'GEOIP_METRO_CODE' => '0'
+    'GEOIP_AREA_CODE' => '0'
+    'GEOIP_LATITUDE' => '55.788700'
+    'GEOIP_LONGITUDE' => '49.122101'
+    'GEOIP_POSTAL_CODE' => '422528'
+    'PERL_USE_UNSAFE_INC' => '1'
+    'HTTP_HOST' => 'yii2.areopagitika.ru'
+    'HTTP_X_SERVER_ADDR' => '87.236.19.4'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_X_REAL_IP' => '217.118.93.95'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 OPR/57.0.3098.116'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.10 (Unix) Server at yii2.areopagitika.ru Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.10 (Unix)'
+    'SERVER_NAME' => 'yii2.areopagitika.ru'
+    'SERVER_ADDR' => '87.236.19.4'
+    'SERVER_PORT' => '80'
+    'REQUEST_SCHEME' => 'http'
+    'REMOTE_ADDR' => '217.118.93.95'
+    'DOCUMENT_ROOT' => '/home/m/mfb7917n/yii2.areopagitika.ru/public_html'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/m/mfb7917n/yii2.areopagitika.ru/public_html'
+    'SERVER_ADMIN' => 'webmaster@yii2.areopagitika.ru'
+    'SCRIPT_FILENAME' => '/home/m/mfb7917n/yii2.areopagitika.ru/public_html/basic/web/index.php'
+    'REMOTE_PORT' => '24484'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/basic/web/index.php'
+    'SCRIPT_NAME' => '/basic/web/index.php'
+    'PHP_SELF' => '/basic/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1549615618.714
+    'REQUEST_TIME' => 1549615618
+    'argv' => []
+    'argc' => 0
+]
